@@ -9,7 +9,7 @@
     height: 90px;
     display: none;
     padding: 20px;
-    border-bottom: 1px solid #2a0134;
+    border-bottom: 1px solid #990000;
 
 }
 #span{
@@ -40,7 +40,7 @@ font-size: small;
 #navs{
   position: sticky;
   top: 0;
-  background-color: #2a0134;
+  background-color: #990000;
   z-index: 1000;
 }
 #hover{
@@ -88,7 +88,7 @@ ul li{
 
 
 #footz{
-  background-image: url(/info.jpg);
+  background-image: url(/aa6.png.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -112,7 +112,7 @@ ul li{
 
 #full{
 
- background-image: url(images/awka23.png);
+ background-image: url(images/aa11.png.jpg);
  background-size: 450px;
  background-repeat: repeat;
  z-index: -1;
@@ -150,16 +150,17 @@ ul li{
 }
 
 #covers{
-  background-color:#2a013470;
+  background-color:#99000070;
 }
 #button:hover{
 background-color: #FF595A;
 }
 @media screen and (max-width: 900px) {
   .full-width-image {
-    width: 100%;
+    width: 200%;
     height: 350px;
     margin-left: 0;
+    margin-bottom: 20px;
   }
 }
 
@@ -230,7 +231,7 @@ border-bottom: 1px solid wheat;
 /* Header style */
 .header {
     padding: 10px;
-    background-color: #2a0134;
+    background-color: #990000;
     font-size: 20px;
     color: white;
     font-weight: bold;
@@ -263,9 +264,10 @@ border-bottom: 1px solid wheat;
 
 /* Image style */
 .image {
-    height: 300px;
-    width: 500px;
-    margin-bottom: 20px;
+    height: 200px;
+    width: 550px;
+    margin-bottom: 30px;
+    margin-left: 50;
 }
 
 
@@ -329,12 +331,12 @@ border-bottom: 1px solid wheat;
 }
 
 .text-2a0134 {
-  color: #2a0134;
+  color: #990000;
 }
 
 .dropdown-item {
   cursor: pointer;
-  color: #2a0134;
+  color: #990000;
 }
 
 .dropdown-item:hover {

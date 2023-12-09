@@ -1,16 +1,16 @@
 
 const imageUrls = [
-    'images/pic1.jpg',
-    'images/pic2.jpg',
-    'images/pic3.jpg',
-    'images/pic4.jpg',
-    'images/pic5.jpg',
-    'images/pic6.jpg',
-    'images/pic7.jpg',
-    'images/pic8.jpg',
-    'images/pic9.jpg',
-    'images/pic10.jpg',
-    'images/pic11.jpg',
+    'images/auto21.png.jpg',
+    'images/auto12.png.jpg',
+    'images/auto13.png.jpg',
+    'images/aa1.png.jpg',
+    'images/aa2.png.jpg',
+    'image/auto1.png.jpg',
+    'images/auto2.png.jpg',
+    'images/auto3.png.jpg',
+    'images/auto4.png.jpg',
+    'images/auto5.png.jpg',
+    'images/auto6.png.jpg',
 ];
 
 let currentIndex = 0;
